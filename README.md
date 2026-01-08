@@ -71,7 +71,15 @@ Core Java concepts, OOPs, problem-solving
 400+ Problems Solved
 1500+ Rating
 Strong grip on DSA & problem-solving
-</PRE>
+
+**<strong>🏅Positions & Memberships<strong>**
+👨‍💻 Member – Programming & Tech Skills Club, KNIT
+Actively involved in coding events, technical competitions, and peer learning initiatives
+  
+🌐 Member – Google Developer Group (GDG)
+AI / ML Domain
+Engaged in learning, workshops, and community-driven tech discussions focused on Artificial Intelligence & Machine Learning
+</pre>
 ## 🛠️ Technology Stack
 
 ### **Languages**
