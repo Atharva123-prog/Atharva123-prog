@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://em-content.zobj.net/thumbs/160/apple/325/waving-hand_1f44b.png" height="30" />
   <h1>Hello, I'm Atharva Tiwari!</h1>
-  <h3>Aspiring Software Engineer | Web Developer | AI/ML Enthusiast | Open Source Enthusiast</h3>
+  <h3>Aspiring Software Engineer | Web Developer | AI/ML Enthusiast | Open Source Enthusiast | Problem Solver</h3>
 </div>
 
 <p align="center">
