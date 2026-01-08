@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Atharva123-prog/Atharva123-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm a passionate **WEB DEVELOPER** specializing in modern web technologies and open-source contributions. Currently working as an **FRONTEND DEVELOPER** and focusing on new technologies and learining.Apart from the web development ,I am keenly interested in **AI/ML** domain and focusing on**DATA STRUCTURES AND ALGORITHMS**.
+I'm a passionate **WEB DEVELOPER** specializing in modern web technologies and open-source contributions. Currently working as an **FRONTEND DEVELOPER** and focusing on new technologies and learining.Apart from the web development ,I am keenly interested in **AI/ML** domain and focusing on **DATA STRUCTURES AND ALGORITHMS**.
 - 🔭 **Currently working on:** Dynamic solutions for real-world problems
 - 🌱 **Learning:** Pyhton, Spring Boot, Full Stack Development ,AI/ML 
 - 👯 **Looking to collaborate on:** Full Stack Development projects and AI/ML based problem solutions
@@ -116,8 +116,8 @@ Strong grip on DSA & problem-solving
 
 ### **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koniosh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koniosh&theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva123-prog&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva123-prog&theme=radical" alt="GitHub Streak" width="49%" />
 </div>
 
 ### **Most Used Languages**
