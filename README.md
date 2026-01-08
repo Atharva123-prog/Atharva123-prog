@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 I'm a passionate **WEB DEVELOPER** specializing in modern web technologies and open-source contributions. Currently working as an **FRONTEND DEVELOPER** and focusing on new technologies and learining.Apart from the web development ,I am keenly interested in **AI/ML** domain and focusing on **DATA STRUCTURES AND ALGORITHMS**.
 - 🔭 **Currently working on:** Dynamic solutions for real-world problems
-- 🌱 **Learning:** Pyhton, Spring Boot, Full Stack Development ,AI/ML 
+- 🌱 **Learning:** Python, Spring Boot, Full Stack Development ,AI/ML 
 - 👯 **Looking to collaborate on:** Full Stack Development projects and AI/ML based problem solutions
 - 💬 **Ask me about:** React, TypeScript, Node.js, Web Development ,Python,its libraries ,ML algos and DSA
 - 📫 **Reach me at:** at4997735@gmail.com
