@@ -71,8 +71,9 @@ Core Java concepts, OOPs, problem-solving
 400+ Problems Solved
 1500+ Rating
 Strong grip on DSA & problem-solving
-
-**<strong>🏅Positions & Memberships<strong>**
+</PRE>
+**🏅Positions & Memberships**
+<pre>
 👨‍💻 Member – Programming & Tech Skills Club, KNIT
 Actively involved in coding events, technical competitions, and peer learning initiatives
   
