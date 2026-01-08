@@ -131,8 +131,10 @@ Strong grip on DSA & problem-solving
 </div>
 
 ## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Atharva123-prog/Atharva123-prog/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Chart" width="100%" />
+</div>
 
-![Snake animation](https://raw.githubusercontent.com/Atharva123-prog/Atharva123-prog/output/github-contribution-grid-snake.svg)
 
 
 ### **Contribution Heatmap**
