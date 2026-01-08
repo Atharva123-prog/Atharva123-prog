@@ -46,7 +46,7 @@ I'm a passionate **WEB DEVELOPER** specializing in modern web technologies and o
 ---
 
 **🏆 Wins & Achievements**
-<DIV>
+<PRE>
 🥇 Winner – Hack The Web
 Organized by Programming & Tech Skills Club
 🥇 Winner – GyanKumbh
@@ -55,23 +55,23 @@ Organized by Programming & Tech Skills Club
 🥇 Winner – InnoQuest
 🏅 SIH Hackathon – College Level Selected Participant
 🏅 NIT Delhi Hackathon – Participant
-</DIV>
+</PRE>
 **📜 Certifications**
-<DIV>
+<PRE>
 ✅ Scalar Masterclass – Web Development
 Frontend fundamentals, modern web practices & project-based learning
 ✅ Java Programming Certification – KG Coding
 Core Java concepts, OOPs, problem-solving
-</DIV>
+</PRE>
 **💻 Competitive Programming & DSA**
-⭐ CodeChef: 2★ Coder
+<PRE>⭐ CodeChef: 2★ Coder
 📊 GeeksforGeeks:
 500+ Score
 🚀 LeetCode:
 400+ Problems Solved
 1500+ Rating
 Strong grip on DSA & problem-solving
-
+</PRE>
 ## 🛠️ Technology Stack
 
 ### **Languages**
