@@ -112,7 +112,12 @@ Strong grip on DSA & problem-solving
 
 ---
 
+
 ## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ### **GitHub Stats**
 <div align="center">
