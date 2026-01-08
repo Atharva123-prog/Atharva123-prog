@@ -130,35 +130,6 @@ Strong grip on DSA & problem-solving
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva123-prog&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" width="100%" />
 </div>
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Atharva123-prog/Atharva123-prog/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Chart" width="100%" />
-</div>
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Atharva123-prog
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
 ### **Contribution Heatmap**
 <div align="center">
   <img src="https://ghchart.rshah.org/58a6ff/Atharva123-prog" alt="GitHub Contribution Chart" width="100%" />
