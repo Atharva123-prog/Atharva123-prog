@@ -134,6 +134,28 @@ Strong grip on DSA & problem-solving
 <div align="center">
   <img src="https://raw.githubusercontent.com/Atharva123-prog/Atharva123-prog/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Chart" width="100%" />
 </div>
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Atharva123-prog
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 
