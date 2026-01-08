@@ -130,6 +130,11 @@ Strong grip on DSA & problem-solving
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharva123-prog&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Graph" width="100%" />
 </div>
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Atharva123-prog/Atharva123-prog/output/github-contribution-grid-snake.svg)
+
+
 ### **Contribution Heatmap**
 <div align="center">
   <img src="https://ghchart.rshah.org/58a6ff/Atharva123-prog" alt="GitHub Contribution Chart" width="100%" />
